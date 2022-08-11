@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TASKS/TASKS.md",
+            "file": "TOOLS/TOOLS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASKS/TASKS.md",
+                "file": "TOOLS/TOOLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASKS/TASKS.md"
+                "file": "TOOLS/TOOLS.md"
               }
             }
           },
@@ -133,10 +133,10 @@
   },
   "active": "eb945c42a35dc4a7",
   "lastOpenFiles": [
-    "PRODUCTS/PRODUCTS.md",
     "PLATFORMS/PLATFORMS.md",
-    "PEOPLE/PEOPLE.md",
     "TASKS/TASKS.md",
+    "PRODUCTS/PRODUCTS.md",
+    "PEOPLE/PEOPLE.md",
     "TOOLS/Workflows/Workflows.md",
     "TOOLS/Templates/Quick Note/Quick Note.md",
     "TOOLS/Templates/Conversation Tracker/Conversation Tracker.md",
