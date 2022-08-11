@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "695339b501943497",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb945c42a35dc4a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TASKS/TASKS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97432260b8d253d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7163c03f5ddfabd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33f8a4bccd508457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2229bd2dda4a0d5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43a9b6be13e2b4bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "right": {
+    "id": "6f1ec7f15ae2f928",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d84cf55faaa4d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9b120e481b5176",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TASKS/TASKS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "904615c40666ed4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TASKS/TASKS.md"
+              }
+            }
+          },
+          {
+            "id": "78d92850d292e7eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b09c349d5c9ae7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c509a7628b5a5e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASKS/TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "eb945c42a35dc4a7",
+  "lastOpenFiles": [
+    "PRODUCTS/PRODUCTS.md",
+    "PLATFORMS/PLATFORMS.md",
+    "PEOPLE/PEOPLE.md",
+    "TASKS/TASKS.md",
+    "TOOLS/Workflows/Workflows.md",
+    "TOOLS/Templates/Quick Note/Quick Note.md",
+    "TOOLS/Templates/Conversation Tracker/Conversation Tracker.md",
+    "TOOLS/Rnotes/Rnotes.md",
+    "TOOLS/Lit_review/Lit_review.md",
+    "TOOLS/Assets/Text/How to use this.md"
+  ]
+}
