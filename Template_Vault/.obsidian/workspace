@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/TOOLS.md",
+            "file": "TOOLS/Workflows/Updating R Without lossing your packages.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/TOOLS.md",
+                "file": "TOOLS/Workflows/Updating R Without lossing your packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/TOOLS.md"
+                "file": "TOOLS/Workflows/Updating R Without lossing your packages.md"
               }
             }
           },
@@ -133,6 +133,7 @@
   },
   "active": "eb945c42a35dc4a7",
   "lastOpenFiles": [
+    "TOOLS/TOOLS.md",
     "PLATFORMS/PLATFORMS.md",
     "TASKS/TASKS.md",
     "PRODUCTS/PRODUCTS.md",
@@ -141,7 +142,6 @@
     "TOOLS/Templates/Quick Note/Quick Note.md",
     "TOOLS/Templates/Conversation Tracker/Conversation Tracker.md",
     "TOOLS/Rnotes/Rnotes.md",
-    "TOOLS/Lit_review/Lit_review.md",
-    "TOOLS/Assets/Text/How to use this.md"
+    "TOOLS/Lit_review/Lit_review.md"
   ]
 }
