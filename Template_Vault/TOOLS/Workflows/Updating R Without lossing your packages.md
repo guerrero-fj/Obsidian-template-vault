@@ -62,7 +62,7 @@ Steps (screenshot below):
 
 Note that **Hawk** is the name of my machine. You machine will likely have a different name.
 
-#### 3. Edit the RProfile file
+#### 3. Edit the RProfile file (Optional)
 
 Now that you have Write permissions, double-click on the R subfolder, then on the RProfile file (make sure RStudio is closed). Windows will prompt you with which program to use to open the file. Notepad is fine if you don’t use a professional text editor.
 
