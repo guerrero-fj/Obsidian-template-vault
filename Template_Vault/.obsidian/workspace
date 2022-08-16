@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/Workflows/Updating R Without lossing your packages.md",
+            "file": "TOOLS/Workflows/Quarto Websites.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Workflows/Updating R Without lossing your packages.md",
+                "file": "TOOLS/Workflows/Quarto Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Workflows/Updating R Without lossing your packages.md"
+                "file": "TOOLS/Workflows/Quarto Websites.md"
               }
             }
           },
@@ -133,6 +133,7 @@
   },
   "active": "eb945c42a35dc4a7",
   "lastOpenFiles": [
+    "TOOLS/Workflows/Updating R Without lossing your packages.md",
     "TOOLS/TOOLS.md",
     "PLATFORMS/PLATFORMS.md",
     "TASKS/TASKS.md",
@@ -141,7 +142,6 @@
     "TOOLS/Workflows/Workflows.md",
     "TOOLS/Templates/Quick Note/Quick Note.md",
     "TOOLS/Templates/Conversation Tracker/Conversation Tracker.md",
-    "TOOLS/Rnotes/Rnotes.md",
-    "TOOLS/Lit_review/Lit_review.md"
+    "TOOLS/Rnotes/Rnotes.md"
   ]
 }
