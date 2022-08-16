@@ -20,3 +20,5 @@ py_install('matplotlib')# for data visualization
 py_install('spacy')#for natural language processing
 ```
 
+  WARNING: The script jupyter-console.exe is installed in 'C:\Users\guer310\AppData\Local\Programs\Python\Python310\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location...

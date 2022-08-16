@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "9c43c87bea6c6d02",
+    "id": "60fef41f6259be23",
     "type": "split",
     "children": [
       {
-        "id": "40ba12a6218b7193",
+        "id": "7d6cd837d17280ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/Workflows/Quarto Websites.md",
+            "file": "TOOLS/Workflows/Running Python in R Studio.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de4523b46fafdc6d",
+    "id": "8022c3670aae828e",
     "type": "split",
     "children": [
       {
-        "id": "14bb0eaa45e93ea6",
+        "id": "f9e824eae08bc9f5",
         "type": "tabs",
         "children": [
           {
-            "id": "bd459972c3c23c70",
+            "id": "ded4f73da43d0f32",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "e26c5b5d5b63e4c6",
+            "id": "7ba3a265dbdf875e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "5724a6933848313e",
+            "id": "f6cc84239dc46c94",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "d88b52b743d6f40d",
+    "id": "c48aee084eb872bb",
     "type": "split",
     "children": [
       {
-        "id": "9cf0a1a481058abe",
+        "id": "913c63596040f781",
         "type": "tabs",
         "children": [
           {
-            "id": "de22d943ca813d8e",
+            "id": "e51b68f7412bc576",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "1a5e5dfd23e57e46",
+            "id": "e9a761491a66b488",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md",
+                "file": "TOOLS/Workflows/Running Python in R Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,12 @@
             }
           },
           {
-            "id": "985c4dc32861e446",
+            "id": "2a5403af752ef51c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md"
+                "file": "TOOLS/Workflows/Running Python in R Studio.md"
               }
             }
           }
@@ -113,6 +113,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40ba12a6218b7193",
-  "lastOpenFiles": []
+  "active": "7d6cd837d17280ff",
+  "lastOpenFiles": [
+    "TOOLS/Workflows/Quarto Websites.md"
+  ]
 }
