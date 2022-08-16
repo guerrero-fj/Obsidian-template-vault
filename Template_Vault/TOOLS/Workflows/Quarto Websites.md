@@ -142,52 +142,7 @@ Now, **go back to GitHub** and refresh the page to see your project content safe
 
 ![](https://nceas.github.io/scicomptasks/images/tutorial_quarto/website-tutorial_git-github-connect-1.png)
 
-#### FG-Comments
-After creating the repository this way I run into several errors while trying to commit files. 
 
-When copying and pasting the link to the repository in :
-
-```
-# Tell your computer which GitHub repository to connect to
-git remote add origin [GITHUB_URL]
-```
-
-When trying to run 
-```
-# Push all of the content to the main branch
-git push -u origin main
-```
-
-I'd get: 
-```
-fatal: protocol '[https...' is not supported
-```
-
-I found that the problem behind that error was related to the format in which the link was pasted in the console see [here](https://stackoverflow.com/questions/53988638/git-fatal-protocol-https-is-not-supported)
-
-After trying multiple times with 'Right Click' - Paste** and getting the same error, finally decided to start over.  This time entering manually the repo address in 
-
-```
-# Tell your computer which GitHub repository to connect to
-git remote add origin [GITHUB_URL]
-```
-
-Then, when trying to push commits they would not go through. I open GitHub desktop to try to commit from there and I found the error: "cannot publish unborn HEAD", which apparently can be solved by  adding a REAME.md. See [here](https://stackoverflow.com/questions/48527025/github-website-publish-cannot-publish-unborn-head)
-
-So, I started over again. This time after creating the repo in GitHub I followed the instructions on the repository page about how to create the repo from the command line, and combined with your instructions (yup, I had to add the README.md at this point...)
-
-```
-echo "#my_repo" >> README.md
-git init
-git add .
-git add README.md
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://... (manual input)
-git push -u origin main
-```
-
-Then, I finally saw all the files in the GitHub Repository. 
 ### Deploy Website via GitHub[](https://nceas.github.io/scicomptasks/tutorials.html#deploy-website-via-github)
 In order to get your new website actually on the web, we’ll need to tell GitHub that we want our website to be accessible at a .github.io URL.
 
@@ -275,11 +230,27 @@ After a moment, a new .qmd file will open in Quarto’s visual editor. **For the
 
 ![](https://nceas.github.io/scicomptasks/images/tutorial_quarto/website-tutorial_new-content-5.png)
 
+**FG**: **Dont forget to save this changes in the .yml file** by clicking on the disk icon on the top left!
+
 Once you’ve added the file to the fundamental architecture of your website, you need to tell Quarto to re-build the part of the website that GitHub looks for when it deploys. To do this **run the following code in the Terminal.**
 
 ```
 quarto render
 ```
+
+**FG** : Depending on the type of terminal you have, you my encounter the following error: 
+
+```
+bash: quarto command not found
+```
+
+If that's the case, you just need to add use `quarto.cmd` instead:
+
+```
+quarto.cmd render
+```
+
+The same applies for the indications below. 
 
 If you want to _preview_ your changes, run `quarto preview` in the Terminal and a new browser window will be displayed showing your current website content. This preview continues until you click the **red** stop sign icon in RStudio so be sure to end it when you’re done with the preview!
 
@@ -306,3 +277,50 @@ When you visit your website you may need to refresh the page for your edits to a
 Quarto is developing at a rapid pace so quality of life changes and new functionalities are introduced relatively frequently. Additionally, Quarto supports user-created “extensions” that can be downloaded in a given project and then used (similar to the way user-developed R packages can be shared) so if you want to do something that Quarto itself doesn’t support, chances are you’ll be able to find an extension that handles it.
 
 [Quarto’s documentation of website creation and formatting](https://quarto.org/docs/websites/) is extremely thorough and is a great resource as you become more comfortable with your new website. We hope this tutorial was useful to you and welcome constructively critical feedback! Please [post an issue](https://github.com/NCEAS/scicomptasks/issues) with any thoughts for improvement that you have.
+
+#### FG-Comments: Rabbit Hole
+After creating the repository this way I run into several errors while trying to commit files. 
+
+When copying and pasting the link to the repository in :
+
+```
+# Tell your computer which GitHub repository to connect to
+git remote add origin [GITHUB_URL]
+```
+
+When trying to run 
+```
+# Push all of the content to the main branch
+git push -u origin main
+```
+
+I'd get: 
+```
+fatal: protocol '[https...' is not supported
+```
+
+I found that the problem behind that error was related to the format in which the link was pasted in the console see [here](https://stackoverflow.com/questions/53988638/git-fatal-protocol-https-is-not-supported)
+
+After trying multiple times with 'Right Click' - Paste** and getting the same error, finally decided to start over.  This time entering manually the repo address in 
+
+```
+# Tell your computer which GitHub repository to connect to
+git remote add origin [GITHUB_URL]
+```
+
+Then, when trying to push commits they would not go through. I open GitHub desktop to try to commit from there and I found the error: "cannot publish unborn HEAD", which apparently can be solved by  adding a REAME.md. See [here](https://stackoverflow.com/questions/48527025/github-website-publish-cannot-publish-unborn-head)
+
+So, I started over again. This time after creating the repo in GitHub I followed the instructions on the repository page about how to create the repo from the command line, and combined with your instructions (yup, I had to add the README.md at this point...)
+
+```
+echo "#my_repo" >> README.md
+git init
+git add .
+git add README.md
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://... (manual input)
+git push -u origin main
+```
+
+Then, I finally saw all the files in the GitHub Repository. 
