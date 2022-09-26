@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PEOPLE/PEOPLE.md",
+            "file": "TOOLS/Workflows/Quarto Websites.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEOPLE/PEOPLE.md",
+                "file": "TOOLS/Workflows/Quarto Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PEOPLE/PEOPLE.md"
+                "file": "TOOLS/Workflows/Quarto Websites.md"
               }
             }
           }
@@ -115,6 +115,7 @@
   },
   "active": "7d6cd837d17280ff",
   "lastOpenFiles": [
+    "PEOPLE/PEOPLE.md",
     "TOOLS/Workflows/Updating R Without lossing your packages.md",
     "TOOLS/Workflows/Quarto Websites.md",
     "TOOLS/Workflows/Running Python in R Studio.md"
