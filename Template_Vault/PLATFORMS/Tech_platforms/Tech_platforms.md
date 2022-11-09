@@ -1,2 +1,2 @@
 # Tech_platforms 
-The initial [[PLATFORMS]] we include as [[Tech_platforms]] are [[RStudio]], [[GitHub]], and [[Obsidian]].
+The initial [PLATFORMS](PLATFORMS.md) we include as [Tech_platforms](Tech_platforms.md) are [RStudio](RStudio.md), [GitHub](GitHub.md), and [Obsidian](Obsidian.md).

@@ -1,8 +1,8 @@
 # Templates 
-The basic templates include a [[Conversation Tracker]] and [[Quick Note]].
+The basic templates include a [Conversation Tracker](Conversation%20Tracker.md) and [Quick Note](Quick%20Note.md).
 
-[[Conversation Tracker]] is used to document interactions in [[Org_platforms]] including checking-in, notes, and tasks. 
+[Conversation Tracker](Conversation%20Tracker.md) is used to document interactions in [Org_platforms](Org_platforms.md) including checking-in, notes, and tasks. 
 
-[[Quick Note]] is used for more spontaneous interactions in [[Org_platforms]].
+[Quick Note](Quick%20Note.md) is used for more spontaneous interactions in [Org_platforms](Org_platforms.md).
 
-Both the [[Conversation Tracker]] and [[Quick Note]] record information about [[PEOPLE]], [[PRODUCTS]], [[PLATFORMS]] (both [[Org_platforms]] and [[Tech_platforms]]) as well as [[TASKS]] and [[TOOLS]].
+Both the [Conversation Tracker](Conversation%20Tracker.md) and [Quick Note](Quick%20Note.md) record information about [PEOPLE](PEOPLE.md), [PRODUCTS](PRODUCTS.md), [PLATFORMS](PLATFORMS.md) (both [Org_platforms](Org_platforms.md) and [Tech_platforms](Tech_platforms.md)) as well as [TASKS](TASKS.md) and [TOOLS](TOOLS.md).
