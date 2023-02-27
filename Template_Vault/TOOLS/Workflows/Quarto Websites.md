@@ -3,6 +3,9 @@
 ### Turn on internet information services
 Control panel -> Turn windows features on or off -> Check the box "Internet information services" -> Ok, then wait. I've also checked the box "Internet information services hostable webcore"
 
+## Test Image
+![Test Image](https://raw.githubusercontent.com/guerrero-fj/scaling_rivers-assets/main/images/fractal_pop_quiz_hint.png)
+
 ### NCEAS Scientific Computing tutorial 
 [source](https://nceas.github.io/scicomptasks/tutorials.html#building-a-website-with-quarto)
 
