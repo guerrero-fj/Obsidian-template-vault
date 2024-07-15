@@ -1,106 +1,39 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "9c43c87bea6c6d02",
+    "id": "3b454c16079203f6",
     "type": "split",
     "children": [
       {
-        "id": "e62f6fde78f1d5c4",
+        "id": "1dec5734f6852329",
         "type": "tabs",
         "children": [
           {
-            "id": "40ba12a6218b7193",
-=======
-    "id": "60fef41f6259be23",
-    "type": "split",
-    "children": [
-      {
-        "id": "0eadcb4acd5b06c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d6cd837d17280ff",
->>>>>>> Stashed changes
+            "id": "3016cfbcf1328d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md",
+                "file": "PRODUCTS/PRODUCTS.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "47a46f90954849a4",
-=======
-            "id": "9b749c67d899ce62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/Workflows/Obsidian Github Integration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a2a9810c91d6cf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f3211a3be675935",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
               }
             }
           }
-        ],
-<<<<<<< Updated upstream
-        "currentTab": 1
-=======
-        "currentTab": 3
->>>>>>> Stashed changes
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "de4523b46fafdc6d",
+    "id": "5d216a9545994dc7",
     "type": "split",
     "children": [
       {
-        "id": "14bb0eaa45e93ea6",
+        "id": "7d2b363f3f9d80d7",
         "type": "tabs",
         "children": [
           {
-            "id": "bd459972c3c23c70",
-=======
-    "id": "8022c3670aae828e",
-    "type": "split",
-    "children": [
-      {
-        "id": "f9e824eae08bc9f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ded4f73da43d0f32",
->>>>>>> Stashed changes
+            "id": "93ff0736c0b5ddc2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -110,11 +43,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "e26c5b5d5b63e4c6",
-=======
-            "id": "7ba3a265dbdf875e",
->>>>>>> Stashed changes
+            "id": "cd87c8394a2888a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,14 +58,10 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "5724a6933848313e",
-=======
-            "id": "f6cc84239dc46c94",
->>>>>>> Stashed changes
+            "id": "474236ba753ccb4c",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -147,44 +72,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "d88b52b743d6f40d",
+    "id": "86b5c680b626e48b",
     "type": "split",
     "children": [
       {
-        "id": "9cf0a1a481058abe",
+        "id": "bb6b0041e4f2da72",
         "type": "tabs",
         "children": [
           {
-            "id": "de22d943ca813d8e",
-=======
-    "id": "c48aee084eb872bb",
-    "type": "split",
-    "children": [
-      {
-        "id": "913c63596040f781",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e51b68f7412bc576",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "1a5e5dfd23e57e46",
-=======
-            "id": "e9a761491a66b488",
->>>>>>> Stashed changes
+            "id": "f099ae32abfa27f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md",
+                "file": "PRODUCTS/PRODUCTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +97,21 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "985c4dc32861e446",
-=======
-            "id": "2a5403af752ef51c",
->>>>>>> Stashed changes
+            "id": "7b7ed2fb6b30414c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md"
+                "file": "PRODUCTS/PRODUCTS.md"
               }
+            }
+          },
+          {
+            "id": "3845a3dea25730cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -225,23 +130,12 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes": false
+      "publish:Publish changes...": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "47a46f90954849a4",
-  "lastOpenFiles": []
-=======
-  "active": "5f3211a3be675935",
+  "active": "3016cfbcf1328d9b",
   "lastOpenFiles": [
-    "output\\Quarto Websites.md",
-    "TOOLS/Workflows/Quarto Websites.md",
-    "TOOLS/Workflows/Obsidian Github Integration.md",
-    "TOOLS/Templates/Templates.md",
-    "TOOLS/Lit_review/Lit_review.md",
-    "PEOPLE/PEOPLE.md",
-    "TOOLS/Workflows/Updating R Without lossing your packages.md",
-    "TOOLS/Workflows/Running Python in R Studio.md"
+    "PLATFORMS/Org_platforms/Org_platforms.md",
+    "PEOPLE/PEOPLE.md"
   ]
->>>>>>> Stashed changes
 }

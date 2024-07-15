@@ -1,14 +1,3 @@
 [
-  "calendar",
-  "obsidian-citation-plugin",
-  "folder-note-plugin",
-  "obsidian-languagetool-plugin",
-  "obsidian-tasks-plugin",
-<<<<<<< Updated upstream
-  "obsidian-pandoc",
-  "obsidian-enhancing-export",
-  "obsidian-link-converter"
-=======
-  "obsidian-markdown-export-plugin"
->>>>>>> Stashed changes
+  "calendar"
 ]
